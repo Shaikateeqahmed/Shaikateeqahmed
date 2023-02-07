@@ -11,7 +11,7 @@
 
 - J.Crew is an e-commerce website that offers fashionable and cool clothes. This website is built based on user and Admin access only admin can and update the products. [J.Crew Clone](https://aesthetic-capybara-e0c08f.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://shaikateeqahmed.github.io/](https://shaikateeqahmed.github.io/)
+- 👨‍💻 My portfolio [https://shaikateeqahmed.github.io/](https://shaikateeqahmed.github.io/)
 
 - 📫 How to reach me at email **shaikateeqahmed892@gmail.com**
 
