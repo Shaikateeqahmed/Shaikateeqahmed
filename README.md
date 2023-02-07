@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Ateeq Ahmed</h1>
-<h3 align="center">>Passion-driven learner and a Full-Stack Web Developer with the ability to write clean, reusable, optimized code. Skilled and experienced at building and maintaining Full-Stack based web applications. Looking forward to joining a progressive and challenging work environment</h3>
+<h3 align="center">Passion-driven learner and a Full-Stack Web Developer with the ability to write clean, reusable, optimized code. Skilled and experienced at building and maintaining Full-Stack based web applications. Looking forward to joining a progressive and challenging work environment</h3>
 
 <img align="right" alt="codig" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Ev05kc4KX43WsSj_OavXxMWEAfLG1c0Zw&usqp=CAU">
 
