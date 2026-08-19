@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=80" 
+    src="https://drive.google.com/file/d/1E2MTtyBiR4G4BbALV1frHJemd4U-DJHz/view?usp=sharing" 
     alt="Shaik Ateeq Ahmed" 
     width="160" 
     height="160" 
@@ -10,6 +10,9 @@
   # Shaik Ateeq Ahmed
   ### Full-Stack Web Developer | Cloud & AI Integrations
 
+A results-driven **Full-Stack Web Developer**[cite: 1] with experience engineering, optimizing, and deploying enterprise cloud applications[cite: 1]. Specialized in scalable frontend architectures (**Nx Monorepos**, **Micro Frontends / Module Federation**)[cite: 1], high-throughput backends (**Node.js**, **ASP.NET Core**)[cite: 1], and automated cloud pipelines across **AWS** and **Microsoft Azure**[cite: 1].
+
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-ateeq-ahmed-102531263)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaikateeqahmed)
   [![Email](https://img.shields.io/badge/Email-shaikateeqahmed892%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikateeqahmed892@gmail.com)
@@ -18,7 +21,12 @@
 
 <br/>
 
-> Results-driven **Full-Stack Web Developer**[cite: 1] with experience engineering, optimizing, and deploying enterprise cloud applications[cite: 1]. Specialized in scalable frontend architectures (**Nx Monorepos**, **Micro Frontends / Module Federation**)[cite: 1], high-throughput backends (**Node.js**, **ASP.NET Core**)[cite: 1], and automated cloud pipelines across **AWS** and **Microsoft Azure**[cite: 1].
+# Hi there, I'm Shaik Ateeq Ahmed 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-ateeq-ahmed-102531263)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shaikateeqahmed)
+[![Email](https://img.shields.io/badge/Email-shaikateeqahmed892%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shaikateeqahmed892@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-555555?style=flat&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 ---
 
