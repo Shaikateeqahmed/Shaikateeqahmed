@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://cdn.postimage.me/2026/08/19/ShaikAteeqAhmed_Professional_Photo.jpeg"
+    src="https://cdn.postimage.me/2026/08/19/jpeg-optimizer_Gemini_Generated_Image_b9rf7ab9rf7ab9rf.png"
     alt="Shaik Ateeq Ahmed" 
     width="160" 
     height="180" 
