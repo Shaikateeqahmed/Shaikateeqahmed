@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://lh3.googleusercontent.com/d/1E2MTtyBiR4G4BbALV1frHJemd4U-DJHz" 
+    src="./assets/avatar.jpg"
     alt="Shaik Ateeq Ahmed" 
     width="160" 
     height="160" 
