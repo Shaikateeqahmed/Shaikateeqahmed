@@ -3,7 +3,7 @@
     src="https://cdn.postimage.me/2026/08/19/jpeg-optimizer_Gemini_Generated_Image_b9rf7ab9rf7ab9rf.png"
     alt="Shaik Ateeq Ahmed" 
     width="160" 
-    height="180" 
+    height="200" 
     style="border-radius: 50%; object-fit: cover; border: 3px solid #0A66C2;"
   />
   
